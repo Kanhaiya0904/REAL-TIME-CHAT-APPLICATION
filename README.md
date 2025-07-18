@@ -22,3 +22,15 @@ The back end is handled by Node.js and Express.js, which together offer a reliab
 Talk-A-Tive was developed using Visual Studio Code (VS Code) as the main IDE, and Git Bash was used for version control and command-line operations. This setup enabled efficient code management and debugging during development. The entire project reflects best practices in modern web development, combining performance, usability, and real-time capabilities in a single full-stack solution.
 In conclusion, Talk-A-Tive is a powerful and engaging chat application that showcases the integration of real-time communication with a modern tech stack. With features like secure login/signup, instant messaging, emoji support, group chats, real-time indicators, and a well-designed UI, the app delivers a comprehensive messaging solution. The use of tools like Postman for API testing further ensures a robust and reliable user experience from end to end.
 
+
+##OUTPUT
+
+<img width="1920" height="940" alt="Image" src="https://github.com/user-attachments/assets/639dafc9-9717-4f4d-90eb-b166b24b75f3" />
+<img width="1917" height="922" alt="Image" src="https://github.com/user-attachments/assets/5bbf9d44-a451-4bb7-8025-6fa6e05bde99" />
+<img width="1920" height="925" alt="Image" src="https://github.com/user-attachments/assets/7a9c3853-5daa-47f0-bd8b-bc0ccd8a6e09" />
+<img width="1920" height="923" alt="Image" src="https://github.com/user-attachments/assets/36d3e5c8-bb9c-4409-8310-89a74ce50db0" />
+<img width="1920" height="925" alt="Image" src="https://github.com/user-attachments/assets/c2b83fb9-2a9f-4564-b5eb-a289b4515e07" />
+<img width="1919" height="941" alt="Image" src="https://github.com/user-attachments/assets/6c2b8437-3ad9-4af9-8cac-6828a28d25b7" />
+<img width="1915" height="930" alt="Image" src="https://github.com/user-attachments/assets/253fd839-c2b9-4294-a678-d3dc830792eb" />
+<img width="1920" height="748" alt="Image" src="https://github.com/user-attachments/assets/1b62917f-854d-443b-ad21-77a17c418f3d" />
+<img width="1920" height="917" alt="Image" src="https://github.com/user-attachments/assets/e6d35c74-d97c-46da-a64e-acca5de68b09" />
